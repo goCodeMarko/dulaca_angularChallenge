@@ -1,0 +1,16 @@
+.cart {
+  background-color: white !important;
+  height: 84vh;
+  overflow: auto;
+  border: 1px solid black;
+  padding: 1em;
+  position: relative;
+  z-index: 1;
+}
+
+.result {
+  position: absolute;
+  bottom: 1em;
+  width: 96%;
+  padding-right: 0px;
+}
